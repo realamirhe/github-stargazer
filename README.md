@@ -9,8 +9,9 @@ Stargazer count prediction via descriptive data analysis
 
 ---
 
-- Data collection pipleline: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/data-collector.ipynb)
-- Data exploration pipleline: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/data-exploration.ipynb)
+- Data Collection Pipleline: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/data-collector.ipynb)
+- Data Exploration Pipleline: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/data-exploration.ipynb)
+- Descriptive Analysis: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/descriptive_analysis.ipynb)
 
 - Classification
   - Binary: [colab](https://githubtocolab.com/realamirhe/github-stargazer/blob/master/classification_binary.ipynb)
